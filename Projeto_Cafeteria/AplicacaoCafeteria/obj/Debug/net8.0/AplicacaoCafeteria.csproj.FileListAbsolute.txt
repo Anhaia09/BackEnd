@@ -1,0 +1,29 @@
+C:\Projeto_Cafeteria\AplicacaoCafeteria\bin\Debug\net8.0\AplicacaoCafeteria.exe
+C:\Projeto_Cafeteria\AplicacaoCafeteria\bin\Debug\net8.0\AplicacaoCafeteria.deps.json
+C:\Projeto_Cafeteria\AplicacaoCafeteria\bin\Debug\net8.0\AplicacaoCafeteria.runtimeconfig.json
+C:\Projeto_Cafeteria\AplicacaoCafeteria\bin\Debug\net8.0\AplicacaoCafeteria.dll
+C:\Projeto_Cafeteria\AplicacaoCafeteria\bin\Debug\net8.0\AplicacaoCafeteria.pdb
+C:\Projeto_Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\AplicacaoCafeteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto_Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\AplicacaoCafeteria.AssemblyInfoInputs.cache
+C:\Projeto_Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\AplicacaoCafeteria.AssemblyInfo.cs
+C:\Projeto_Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\AplicacaoCafeteria.csproj.CoreCompileInputs.cache
+C:\Projeto_Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\AplicacaoCafeteria.sourcelink.json
+C:\Projeto_Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\AplicacaoCafeteria.dll
+C:\Projeto_Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\refint\AplicacaoCafeteria.dll
+C:\Projeto_Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\AplicacaoCafeteria.pdb
+C:\Projeto_Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\AplicacaoCafeteria.genruntimeconfig.cache
+C:\Projeto_Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\ref\AplicacaoCafeteria.dll
+C:\2 - Semestre\BackEnd\Projeto_Cafeteria\AplicacaoCafeteria\bin\Debug\net8.0\AplicacaoCafeteria.exe
+C:\2 - Semestre\BackEnd\Projeto_Cafeteria\AplicacaoCafeteria\bin\Debug\net8.0\AplicacaoCafeteria.deps.json
+C:\2 - Semestre\BackEnd\Projeto_Cafeteria\AplicacaoCafeteria\bin\Debug\net8.0\AplicacaoCafeteria.runtimeconfig.json
+C:\2 - Semestre\BackEnd\Projeto_Cafeteria\AplicacaoCafeteria\bin\Debug\net8.0\AplicacaoCafeteria.dll
+C:\2 - Semestre\BackEnd\Projeto_Cafeteria\AplicacaoCafeteria\bin\Debug\net8.0\AplicacaoCafeteria.pdb
+C:\2 - Semestre\BackEnd\Projeto_Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\AplicacaoCafeteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\2 - Semestre\BackEnd\Projeto_Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\AplicacaoCafeteria.AssemblyInfoInputs.cache
+C:\2 - Semestre\BackEnd\Projeto_Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\AplicacaoCafeteria.AssemblyInfo.cs
+C:\2 - Semestre\BackEnd\Projeto_Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\AplicacaoCafeteria.csproj.CoreCompileInputs.cache
+C:\2 - Semestre\BackEnd\Projeto_Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\AplicacaoCafeteria.dll
+C:\2 - Semestre\BackEnd\Projeto_Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\refint\AplicacaoCafeteria.dll
+C:\2 - Semestre\BackEnd\Projeto_Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\AplicacaoCafeteria.pdb
+C:\2 - Semestre\BackEnd\Projeto_Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\AplicacaoCafeteria.genruntimeconfig.cache
+C:\2 - Semestre\BackEnd\Projeto_Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\ref\AplicacaoCafeteria.dll

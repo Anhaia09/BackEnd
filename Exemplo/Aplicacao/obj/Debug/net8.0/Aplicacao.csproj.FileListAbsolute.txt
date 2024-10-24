@@ -1,0 +1,14 @@
+C:\2 - Semestre\BackEnd\Exemplo\Aplicacao\bin\Debug\net8.0\Aplicacao.exe
+C:\2 - Semestre\BackEnd\Exemplo\Aplicacao\bin\Debug\net8.0\Aplicacao.deps.json
+C:\2 - Semestre\BackEnd\Exemplo\Aplicacao\bin\Debug\net8.0\Aplicacao.runtimeconfig.json
+C:\2 - Semestre\BackEnd\Exemplo\Aplicacao\bin\Debug\net8.0\Aplicacao.dll
+C:\2 - Semestre\BackEnd\Exemplo\Aplicacao\bin\Debug\net8.0\Aplicacao.pdb
+C:\2 - Semestre\BackEnd\Exemplo\Aplicacao\obj\Debug\net8.0\Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\2 - Semestre\BackEnd\Exemplo\Aplicacao\obj\Debug\net8.0\Aplicacao.AssemblyInfoInputs.cache
+C:\2 - Semestre\BackEnd\Exemplo\Aplicacao\obj\Debug\net8.0\Aplicacao.AssemblyInfo.cs
+C:\2 - Semestre\BackEnd\Exemplo\Aplicacao\obj\Debug\net8.0\Aplicacao.csproj.CoreCompileInputs.cache
+C:\2 - Semestre\BackEnd\Exemplo\Aplicacao\obj\Debug\net8.0\Aplicacao.dll
+C:\2 - Semestre\BackEnd\Exemplo\Aplicacao\obj\Debug\net8.0\refint\Aplicacao.dll
+C:\2 - Semestre\BackEnd\Exemplo\Aplicacao\obj\Debug\net8.0\Aplicacao.pdb
+C:\2 - Semestre\BackEnd\Exemplo\Aplicacao\obj\Debug\net8.0\Aplicacao.genruntimeconfig.cache
+C:\2 - Semestre\BackEnd\Exemplo\Aplicacao\obj\Debug\net8.0\ref\Aplicacao.dll

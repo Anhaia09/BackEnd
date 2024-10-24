@@ -1,0 +1,14 @@
+C:\2 - Semestre\BackEnd\Collection\Exercicio2\obj\Debug\net8.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\2 - Semestre\BackEnd\Collection\Exercicio2\obj\Debug\net8.0\Exercicio2.AssemblyInfoInputs.cache
+C:\2 - Semestre\BackEnd\Collection\Exercicio2\obj\Debug\net8.0\Exercicio2.AssemblyInfo.cs
+C:\2 - Semestre\BackEnd\Collection\Exercicio2\obj\Debug\net8.0\Exercicio2.csproj.CoreCompileInputs.cache
+C:\2 - Semestre\BackEnd\Collection\Exercicio2\bin\Debug\net8.0\Exercicio2.exe
+C:\2 - Semestre\BackEnd\Collection\Exercicio2\bin\Debug\net8.0\Exercicio2.deps.json
+C:\2 - Semestre\BackEnd\Collection\Exercicio2\bin\Debug\net8.0\Exercicio2.runtimeconfig.json
+C:\2 - Semestre\BackEnd\Collection\Exercicio2\bin\Debug\net8.0\Exercicio2.dll
+C:\2 - Semestre\BackEnd\Collection\Exercicio2\bin\Debug\net8.0\Exercicio2.pdb
+C:\2 - Semestre\BackEnd\Collection\Exercicio2\obj\Debug\net8.0\Exercicio2.dll
+C:\2 - Semestre\BackEnd\Collection\Exercicio2\obj\Debug\net8.0\refint\Exercicio2.dll
+C:\2 - Semestre\BackEnd\Collection\Exercicio2\obj\Debug\net8.0\Exercicio2.pdb
+C:\2 - Semestre\BackEnd\Collection\Exercicio2\obj\Debug\net8.0\Exercicio2.genruntimeconfig.cache
+C:\2 - Semestre\BackEnd\Collection\Exercicio2\obj\Debug\net8.0\ref\Exercicio2.dll

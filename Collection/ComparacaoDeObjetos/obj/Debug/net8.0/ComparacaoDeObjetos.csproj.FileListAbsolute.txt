@@ -1,0 +1,4 @@
+C:\2 - Semestre\BackEnd\Collection\ComparacaoDeObjetos\obj\Debug\net8.0\ComparacaoDeObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\2 - Semestre\BackEnd\Collection\ComparacaoDeObjetos\obj\Debug\net8.0\ComparacaoDeObjetos.AssemblyInfoInputs.cache
+C:\2 - Semestre\BackEnd\Collection\ComparacaoDeObjetos\obj\Debug\net8.0\ComparacaoDeObjetos.AssemblyInfo.cs
+C:\2 - Semestre\BackEnd\Collection\ComparacaoDeObjetos\obj\Debug\net8.0\ComparacaoDeObjetos.csproj.CoreCompileInputs.cache
