@@ -1,7 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
 namespace Cafeteria.Models;
-
 public class Product
 {
     public int Id { get; set; }
