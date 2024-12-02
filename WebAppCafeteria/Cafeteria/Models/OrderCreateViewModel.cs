@@ -1,8 +1,5 @@
-using Cafeteria.Models;
 using Microsoft.AspNetCore.Mvc.Rendering;
-
-
-
+namespace Cafeteria.Models;
 public class OrderCreateViewModel
 { 
     public List<Product> Products {get; set;} = new List<Product>(); // Resgata todos os produtos do BD
@@ -12,4 +9,3 @@ public class OrderCreateViewModel
     public decimal TotalPrice {get; set;} // Armazena o somatório dos preços dos produtos selecionados
     public string? Message {get; set;} // Utilizado para alertar o usuário de que a quantidade solicitada de um produto é insuficientet no estoque
 }
-
